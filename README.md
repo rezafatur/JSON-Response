@@ -1,6 +1,9 @@
-# JSON Response
-JSON Response merupakan program dalam bahasa pemrograman GO yang dapat melakukan GET dan POST.
+# Deskripsi
 
-## Tutorial
+Repositori ini adalah kumpulan jawaban atau kode sumber (source code) dari ujian tengah semester ke-4.
+## Data Mahasiswa
 
-YouTube : [Klik Disini](https://youtu.be/-LvDYUDzshc)
+Untuk data mahasiswa dapat dilihat sebagai berikut:
+ - Nama : Muhammad Reza Faturrahman
+ - NIM : 2501977626
+ - Kelas : LB20 - LEC
