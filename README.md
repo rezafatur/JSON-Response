@@ -1,6 +1,7 @@
 # Deskripsi
 
-Repositori ini adalah kumpulan jawaban atau kode sumber (source code) dari ujian tengah semester ke-4.
+Repositori ini adalah kumpulan jawaban atau kode sumber (source code) dari Ujian Tengah Semester (UTS) ke-4.
+
 ## Data Mahasiswa
 
 Untuk data mahasiswa dapat dilihat sebagai berikut:
