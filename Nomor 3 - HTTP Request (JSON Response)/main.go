@@ -1,9 +1,9 @@
 package main
 
 import (
-	"JSON_Response/Handler"
-	"log"
-	"net/http"
+    "JSON_Response/Handler"
+    "log"
+     "net/http"
 )
 
 func main() {
