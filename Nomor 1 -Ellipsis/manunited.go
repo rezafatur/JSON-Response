@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+    "fmt"
 )
 
 func average(nums ...int) float64 {
@@ -17,6 +17,6 @@ func average(nums ...int) float64 {
 func main() {
     points := []int{3, 3, 3, 0, 1}
     
-	fmt.Println("Manchester United Last 5 Matches (Premier League)")
+    fmt.Println("Manchester United Last 5 Matches (Premier League)")
     fmt.Println("Average Point : ", average(points...))
 }
